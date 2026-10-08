@@ -1,0 +1,4 @@
+data/registries/*.txt -text
+data/contracts.csv -text
+*.xlsx binary
+*.png binary
